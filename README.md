@@ -1,3 +1,2 @@
 # Trashy's Player Locomotion
-**Remade Gtag Locomotion**
-Coming soon... Made by me obviously
+This is edited and remade Gorilla Tag Locomotion previously made by [Kerestell]/[Lemming]
