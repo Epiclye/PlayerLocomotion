@@ -1,2 +1,2 @@
-# Trashys Updated Gorilla Locomotion Player Rig
+# Trashy's Player Locomotion
 Coming soon... Made by me obviously
